@@ -1,0 +1,13 @@
+@font-face {
+  font-family: PT Serif; 
+  src: url(fonts/PTF56F.ttf);
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Museo Sans Cyrl;
+  src: url(fonts/MuseoSansCyrl.otf);
+  font-style: normal;
+  font-weight: normal;
+}
